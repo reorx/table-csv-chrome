@@ -7,3 +7,8 @@ https://arktiv.site/extensions/
 https://chrome.google.com/webstore/detail/download-table-as-csv/jgeonblahchgiadgojdjilffklaihalj
 
 https://addons.mozilla.org/en-US/firefox/addon/download-table-as-csv/
+
+## TODO
+
+- [ ] convert table to markdown
+- [ ] open an extension page to edit table as csv and markdown
